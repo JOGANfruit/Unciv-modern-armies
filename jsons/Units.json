@@ -173,7 +173,7 @@
 		"cost": 200,
     "requiredTech": "Computers",
 		"uniques": ["Never appears as a Barbarian unit", "Can carry [2] [ATGM] units", "Can carry [1] [Bomb] units"],
-		"promotions": ["Ignore terrain cost", "Scouting I", "Scouting II"],
+		"promotions": ["Scouting I", "Scouting II"],
 		"attackSound": "missile"
   },
   {
@@ -486,7 +486,7 @@
     "cost": 100,
     "requiredTech": "Computers",
     "uniques": ["Never appears as a Barbarian unit"],
-    "promotions": ["Ignore terrain cost", "Scouting I", "Scouting II"],
+    "promotions": ["Scouting I", "Scouting II"],
     "attackSound": "missile",
   },
   {
