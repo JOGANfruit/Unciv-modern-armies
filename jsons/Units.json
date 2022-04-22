@@ -166,7 +166,7 @@
   },
   {
     "name": "Reaper",
-		"unitType": "UAV",
+		"unitType": "Scout",
     "uniqueTo": "America",
 		"movement": 10,
 		"strength": 10,
@@ -479,7 +479,7 @@
   },
   {
     "name": "Hermes",
-    "unitType": "UAV",
+    "unitType": "Scout",
     "uniqueTo": "Israel",
     "movement": 10,
     "strength": 10,
