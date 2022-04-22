@@ -1,0 +1,629 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Donald Trump
+  rotate: false
+  xy: 4, 1412
+  size: 625, 624
+  orig: 625, 624
+  offset: 0, 0
+  index: -1
+LeaderIcons/Great Leader Xi
+  rotate: false
+  xy: 4, 780
+  size: 625, 624
+  orig: 625, 624
+  offset: 0, 0
+  index: -1
+LeaderIcons/Isaac Herzog
+  rotate: false
+  xy: 637, 1412
+  size: 625, 624
+  orig: 625, 624
+  offset: 0, 0
+  index: -1
+LeaderIcons/Olaf Scholz
+  rotate: false
+  xy: 4, 148
+  size: 625, 624
+  orig: 625, 624
+  offset: 0, 0
+  index: -1
+LeaderIcons/Vladimir Putin
+  rotate: false
+  xy: 637, 904
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+NationIcons/America
+  rotate: false
+  xy: 637, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/China
+  rotate: false
+  xy: 1378, 1721
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+NationIcons/Germany
+  rotate: false
+  xy: 1145, 1196
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Israel
+  rotate: false
+  xy: 1486, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Russia
+  rotate: false
+  xy: 1270, 1612
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ADATS
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Apache (Israel)
+  rotate: false
+  xy: 1486, 1900
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/BMP-3
+  rotate: false
+  xy: 1594, 2008
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Buyan-M
+  rotate: false
+  xy: 328, 112
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Challenger 2
+  rotate: false
+  xy: 637, 544
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dolphin
+  rotate: false
+  xy: 745, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Eurocopter
+  rotate: false
+  xy: 853, 760
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gepard
+  rotate: false
+  xy: 961, 868
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gerald Ford
+  rotate: false
+  xy: 1145, 1052
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/HJ-8
+  rotate: false
+  xy: 1270, 1576
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hermes
+  rotate: false
+  xy: 1378, 1685
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Reaper
+  rotate: false
+  xy: 1378, 1685
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Leopard 2
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/M1 Abrams
+  rotate: false
+  xy: 1486, 1864
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/M2 Bradley
+  rotate: false
+  xy: 1526, 1900
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/MI-24
+  rotate: false
+  xy: 1594, 1972
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/MLRS (Germany)
+  rotate: false
+  xy: 1634, 2008
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/MLRS (Israel)
+  rotate: false
+  xy: 328, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Medical vehicle
+  rotate: false
+  xy: 368, 112
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Merkava 4
+  rotate: false
+  xy: 637, 508
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Merkava 4 — копия
+  rotate: false
+  xy: 637, 508
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Military engineering vehicle
+  rotate: false
+  xy: 677, 544
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Msta-S (China)
+  rotate: false
+  xy: 745, 616
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Namer
+  rotate: false
+  xy: 785, 652
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Puma
+  rotate: false
+  xy: 853, 724
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/S-400 (China)
+  rotate: false
+  xy: 893, 760
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sachsen-Klasse
+  rotate: false
+  xy: 961, 832
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shilka (Israel)
+  rotate: false
+  xy: 1001, 868
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spike
+  rotate: false
+  xy: 1145, 1016
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/T-90
+  rotate: false
+  xy: 1185, 1052
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/T-90 — копия
+  rotate: false
+  xy: 1185, 1052
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/TOS Solntsepek
+  rotate: false
+  xy: 1270, 1540
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ticonderoga-class cruiser
+  rotate: false
+  xy: 1310, 1576
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tunguska
+  rotate: false
+  xy: 1378, 1649
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Virginia
+  rotate: false
+  xy: 1418, 1685
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Wiesel
+  rotate: false
+  xy: 84, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/YJ-18
+  rotate: false
+  xy: 1486, 1828
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ZBD-03
+  rotate: false
+  xy: 1485, 1792
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ZBD-04
+  rotate: false
+  xy: 1526, 1864
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ZTZ-99
+  rotate: false
+  xy: 1594, 1936
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/ADATS
+  rotate: false
+  xy: 1270, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gepard
+  rotate: false
+  xy: 1270, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/S-400 (China)
+  rotate: false
+  xy: 1270, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shilka (Israel)
+  rotate: false
+  xy: 1270, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tunguska
+  rotate: false
+  xy: 1270, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Air bomb
+  rotate: false
+  xy: 4, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Tank Guided Missile
+  rotate: false
+  xy: 1145, 1304
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Apache (Israel)
+  rotate: false
+  xy: 1270, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Eurocopter
+  rotate: false
+  xy: 1270, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/MI-24
+  rotate: false
+  xy: 1270, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/BMP-3
+  rotate: false
+  xy: 1378, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/M2 Bradley
+  rotate: false
+  xy: 1378, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namer
+  rotate: false
+  xy: 1378, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Puma
+  rotate: false
+  xy: 1378, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ZBD-03
+  rotate: false
+  xy: 1378, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ZBD-04
+  rotate: false
+  xy: 1378, 1936
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Buyan-M
+  rotate: false
+  xy: 112, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sachsen-Klasse
+  rotate: false
+  xy: 112, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ticonderoga-class cruiser
+  rotate: false
+  xy: 112, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dolphin
+  rotate: false
+  xy: 637, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Virginia
+  rotate: false
+  xy: 637, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gerald Ford
+  rotate: false
+  xy: 745, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/HJ-8
+  rotate: false
+  xy: 1270, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spike
+  rotate: false
+  xy: 1270, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wiesel
+  rotate: false
+  xy: 1270, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hermes
+  rotate: false
+  xy: 1378, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Reaper
+  rotate: false
+  xy: 1378, 1828
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Leopard 2
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/M1 Abrams
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Merkava 4
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/T-90
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ZTZ-99
+  rotate: false
+  xy: 220, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/MLRS (Germany)
+  rotate: false
+  xy: 637, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/MLRS (Israel)
+  rotate: false
+  xy: 637, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/TOS Solntsepek
+  rotate: false
+  xy: 637, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/YJ-18
+  rotate: false
+  xy: 637, 580
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medical vehicle
+  rotate: false
+  xy: 745, 688
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Military engineering vehicle
+  rotate: false
+  xy: 853, 796
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Msta-S (China)
+  rotate: false
+  xy: 1145, 1088
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
