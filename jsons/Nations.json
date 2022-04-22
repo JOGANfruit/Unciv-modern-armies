@@ -1,0 +1,130 @@
+[
+  //Russia
+  {
+    "name": "Russia",
+    "leaderName": "Vladimir Putin",
+    "adjective": ["Russian"],
+    "startBias": ["Tundra"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "After the collapse of the Soviet Union, the new Russia fell into a deep social and economic crisis. Throughout the nineties, Yeltsin's gang tried to pull Russia out of the abyss of the crisis, but nothing came of it. After the successful suppression of the Chechen resistance under your leadership, you, Vladimir Vladimirovich Putin, will lead the new Russia and return its glorious name!",
+    "declaringWar": "In the most difficult time of the war, in the decisive battles that determined the outcome of the struggle against the enemy, our people were alone, alone on the difficult, heroic and sacrificial path to Victory.",
+    "attacked": "Russia is a country with more than a thousand years of history, and almost always it has enjoyed the privilege of pursuing an independent foreign policy. We are not going to change this tradition today.",
+    "defeated": "Today we see gatherings of unbeaten punishers and their followers, attempts to rewrite history, to justify traitors and criminals, on whose hands the blood of hundreds of thousands of peaceful people.",
+    "introduction": "Greetings, I, Vladimir Putin, am the President of the Russian Federation. I look forward to economic cooperation with you. But if you encroach on the lands of holy Russia, we will not disdain to knock out your teeth.",
+    "neutralHello": "Hello!",
+    "hateHello": "Your sanctions only make Russia stronger.",
+    "tradeRequest": "How would you like it if I propose this kind of exchange?",
+    "outerColor": [0,0,54],
+    "innerColor": [225,225,225],
+
+    "uniqueName": "National Treasure",
+    "uniques": ["Double quantity of [Oil] produced","Double quantity of [Uranium] produced", "[+100]% [Food] from every [Wheat]"],
+    "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+  },
+  //America
+  {
+    "name": "America",
+    "leaderName": "Donald Trump",
+    "adjective": ["American"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "Welcome President Trump! You lead the industrious American civilization! Formed in the conflagration of revolution in the 18th century, within a hundred years, the young nation became embroiled in a terrible civil war that nearly tore the country apart, but it was just a few short years later in the 20th century that the United States reached the height of its power, emerging triumphant and mighty from the two terrible wars that destroyed so many other great nations. The United States is a nation of immigrants, filled with optimism and determination. After the unsuccessful presidency of your predecessor, you became the head of state again. Are you ready to make America great again?",
+    "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+    "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+    "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+    "introduction": "The people of the United States of America welcome you.",
+    "neutralHello": "Good day.",
+    "hateHello": "Well?",
+    "tradeRequest": "Is the following trade of interest to you?",
+    "outerColor": [225,225,225],
+    "innerColor": [174,0,0],
+
+    "uniqueName": "Make America Great Again",
+    "uniques": ["[+5 Gold] from each Trade Route", "[+5 Gold] from every [Luxury resource]", "[+5 Gold] from every [Strategic resource]"],
+    "cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
+			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
+			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
+			"Spokane","Jacksonville","Svannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
+			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
+  },
+  //China
+  {
+    "name": "China",
+    "leaderName": "Great Leader Xi",
+    "adjective": ["Chinese"],
+    "startBias": ["Hills"],
+    "preferrVictoryType": "Domination",
+
+    "startIntroPart1": "China is one of the most amazing and mysterious countries in the world. The birthplace of paper and printing, gunpowder and compass, silk, porcelain and many other useful inventions and discoveries invariably attracts the attention of historians, researchers and travelers. Located in the southeast of the Asian continent and resembling with its outlines a huge bird soaring in the sky, modern China is the heir to a great civilization, the annals of which are about five thousand years old. Lead us to a brighter future, Great Leader!",
+    "declaringWar": "- 100000 social credit! You will be executed!",
+    "attacked": "War is a great thing for the state, it is the soil of life and death, it is the way of existence and death. This needs to be understood.",
+    "defeated": "Winning a hundred victories in a hundred battles is not the pinnacle of martial art. Defeating the enemy without a fight is the pinnacle.",
+    "introduction": "Greetings, I, Xi Jinping, am the President of the People's Republic of China. I am glad to welcome you!",
+    "neutralHello": "The Chinese Communist Party is proud of you!",
+    "hateHello": "The Chinese Communist Party is unhappy with you!",
+    "tradeRequest": "What would you like in exchange for that?",
+    "outerColor": [147,0,0],
+    "innerColor": [255,176,0],
+
+    "uniqueName": "Social Credit System",
+    "uniques": ["[+10] [Happiness] [in all cities]", "[+100]% Golden Age length"],
+    "cities" : ["Beijing", "Taiwan", "Shanghai", "Guangzhou", "Nanjing", "Xian", "Chengdu", "Hangzhou", "Tianjin", "Macau", "Shandong", "Ningbo", "Baoding", "Yangzhou", "Harbin", "Chongqing", "Luoyang", "Kunming", "Taipei", "Shenyang"]
+  },
+  //Germany
+  {
+    "name": "Germany",
+    "leaderName": "Olaf Scholz",
+    "adjective": ["German"],
+    "startBias": ["Forest"],
+    "preferrVictoryType": "Domination",
+
+    "startIntroPart1": "Hello, Olaf Scholz, Federal Chancellor. Germany is an upstart nation created on the ruins of the Holy Roman Empire and finally united in 1871, just over a century ago. The German people have shown themselves to be creative, hardworking and ferocious warriors. Despite the great catastrophes experienced in the first half of the 20th century, Germany remains the world's economic, artistic and technological leader. you have taken the post of Chancellor of Germany, but are you ready to lead us to prosperity? Time will tell.",
+    "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+    "attacked": "Corrupted villain! We will bring you into the ground!",
+    "defeated": "Germany has been destroyed. I weep for the future generations.",
+    "introduction": "Guten tag. In the name of the great German people, I bid you welcome.",
+    "neutralHello": "What now?",
+    "hateHello": "So, out with it!",
+    "tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+    "outerColor": [0,0,0],
+    "innerColor": [255,176,0],
+
+    "uniqueName": "Development cooperation",
+    "uniques": ["City-State territory always counts as friendly territory", "Gain [90] Influence with a [Great Person] gift to a City-State", "[+50]% Production towards any buildings that already exist in the Capital"],
+    "cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+  },
+  //Israel
+  {
+    "name": "Israel",
+    "leaderName": "Isaac Herzog",
+    "adjective": ["Israelis"],
+    "startBias": ["Desert"],
+    "preferrVictoryType": "Domination",
+
+    "startIntroPart1": "The history of the formation and development of the Jewish people covers almost four thousand years and hundreds of other different peoples, their religion and culture, with which the Jewish people have interacted throughout their history. A significant part of Jewish history is connected with the territory that is now called the State of Israel. Despite numerous disasters, the Jewish people survived and united. Now our future is in your hands, Mr. President.",
+    "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+    "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+    "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+    "introduction": "The people of Israel welcome you.",
+    "neutralHello": "Shalom",
+    "hateHello": "What do you want?",
+    "tradeRequest": "Is the following trade of interest to you?",
+    "outerColor": [255,255, 255],
+    "innerColor": [0,16,237],
+
+    "uniqueName": "Mass repatriation",
+    "uniques": ["[+30]% Strength <when fighting units from a Civilization with more Cities than you>", "[+3 Food] from every [Desert]", "[-30]% Culture cost of natural border growth [in all cities]"],
+    "cities": ["Jerusalem", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Beersheba", "Holon", "Bnei Brak", "Ramat Gan", "Rehovot", "Ashkelon"]
+  }
+]

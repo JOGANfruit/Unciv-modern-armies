@@ -1,0 +1,19 @@
+[
+{
+       "name": "ATGM",
+       "movementType": "Air",
+       "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+   },
+   {
+      "name": "Bomb",
+      "movementType": "Air",
+      "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
+   },
+   {
+     "name": "UAV",
+     "movementType": "Land",
+     "uniques": ["[+4] Sight"]
+   }
+
+
+]
